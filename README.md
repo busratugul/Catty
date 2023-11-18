@@ -1,0 +1,3 @@
+Merhaba, kendimi bildim bileli hayvanları çok seven bir kişiliğim var. Küçükken sokakta gördüğüm her hayvanı eve getirmeye çalışan, sokakta kaldıkları için ağlayan bir çocuk olduğum için aileme her zaman büyüyünce kocaman bir evim olacak ve hepsini evime getireceğim diyordum. Büyüyünce bunun mümkün olmadığını ama en azından onlara evler bulabilirim diye düşünerek her zaman bu konuda bir şeyler yapmak istedim. Sokakta onlara baksam bile hepsinin sıcak bir yuvaya ihtiyacı olduğunu düşünüyorum. Bu yüzden de en azından şimdilik hayallerimin temelini atarak bu sitenin tasarımını yapmaya çalıştım.
+Ben geliştikçe bu sitenin tasarımı ve dinamikliği de gelişecek belki de bir gün işlevsel hale gelecek.
+Teşekkürler.

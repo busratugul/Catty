@@ -1,0 +1,180 @@
+* {
+  font-family: 'Playpen Sans', cursive;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+body {
+  background-color: #fff6f6;
+  text-align: center;
+  line-height: 1.68rem;
+}
+
+/* NAVBAR */
+
+.navbar {
+  background-color: #f875aa;
+  box-sizing: border-box;
+}
+
+.icons {
+  justify-content: space-evenly;
+}
+
+h4 {
+  color: #900c3f;
+}
+
+h4 .icon {
+  color: #900c3f;
+  margin-left: -0.4rem;
+}
+
+.icon {
+  font-size: 1.4rem;
+  color: #fff6f6;
+}
+
+.icons li .icon:hover {
+  cursor: pointer;
+  color: #900c3f;
+  transition: color 0.3s ease-in-out;
+}
+
+/* Sizden Gelenler Burada slayt olacak ve tabiiki yorumlar ve görseller sayfası ekleyeceğim */
+
+.human {
+  width: 600px;
+  object-fit: contain;
+}
+@media (max-width: 1081px) {
+  .human {
+    width: 400px;
+  }
+}
+
+.chevron {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  opacity: 0.8;
+  color: #aedefc;
+  cursor: pointer;
+}
+
+.chevron:hover {
+  opacity: 1;
+}
+
+@media (max-width: 768px) {
+  .chevron {
+    display: none;
+  }
+}
+
+/* ABOUT */
+
+p .icon {
+  color: #900c3f;
+  font-size: 15px;
+  margin-right: 0.2rem;
+}
+
+/* CATS */
+
+h1 {
+  color: #900c3f;
+}
+
+h1 .icon {
+  font-size: 2rem;
+  color: #900c3f;
+}
+
+/* CARD */
+
+.card {
+  background-color: #fff6f6;
+  margin: auto;
+  max-width: 20rem;
+}
+
+.card-img {
+  height: 18rem;
+  background-position: center;
+  object-fit: cover;
+  background-repeat: no-repeat;
+}
+
+.card-text {
+  font-size: small;
+  font-weight: 200;
+  padding-top: 0.2rem;
+}
+
+button {
+  background-color: #aedefc;
+  border: none;
+}
+
+button .icon {
+  color: #900c3f;
+  font-size: 15px;
+}
+
+button:hover {
+  background-color: #cb6f9229;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+/* CONTACT */
+
+.page3 p {
+  letter-spacing: 0.05rem ;
+}
+
+.page3 a {
+  text-decoration: none;
+  color: black;
+  opacity: 0.5;
+  font-size: 16px;
+  opacity: 0.5;
+  margin-top: 0.5rem;
+}
+
+.page3 a:hover {
+  color: #900c3f;
+  opacity: 1;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.socialMedia i {
+  font-size: 1.5rem;
+  padding-top: 1rem;
+}
+
+.socialMedia > i {
+  opacity: 0.5;
+}
+
+.socialMedia i:hover {
+  color: #900c3f;
+  opacity: 1;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.bold {
+  font-weight: 500;
+}
+
+footer {
+  background-color: #F875AA;
+  font-size: small;
+  font-weight: 600;
+}
+
